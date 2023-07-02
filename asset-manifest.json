@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/anoopdss.github.io/static/css/main.073c9b0a.css",
-    "main.js": "/anoopdss.github.io/static/js/main.29c26e34.js",
-    "static/js/787.a74095cd.chunk.js": "/anoopdss.github.io/static/js/787.a74095cd.chunk.js",
-    "static/media/logo.svg": "/anoopdss.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/anoopdss.github.io/index.html",
-    "main.073c9b0a.css.map": "/anoopdss.github.io/static/css/main.073c9b0a.css.map",
-    "main.29c26e34.js.map": "/anoopdss.github.io/static/js/main.29c26e34.js.map",
-    "787.a74095cd.chunk.js.map": "/anoopdss.github.io/static/js/787.a74095cd.chunk.js.map"
+    "main.css": "/static/css/main.073c9b0a.css",
+    "main.js": "/static/js/main.bd3e73e1.js",
+    "static/js/787.a74095cd.chunk.js": "/static/js/787.a74095cd.chunk.js",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
+    "main.bd3e73e1.js.map": "/static/js/main.bd3e73e1.js.map",
+    "787.a74095cd.chunk.js.map": "/static/js/787.a74095cd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.29c26e34.js"
+    "static/js/main.bd3e73e1.js"
   ]
 }
